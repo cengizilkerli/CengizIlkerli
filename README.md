@@ -1,5 +1,9 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+page;I+am+a+Fullstack+Software+Developer&font=Fira%20Code&center=true&width=740&height=45&color=293462&vCenter=true&size=30">
+    Hello, Welcome to My Github Page
+</p>
+
+<p align="center">
+    I'm a FullStack Software Developer
 </p>
 
 <table border="1" width="70%" cellpadding="10" cellspacing="10">
