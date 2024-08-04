@@ -1,10 +1,10 @@
-<p align="center">
+<div align="center">
     <h2>Hello, Welcome to My Github Page</h2>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
     <h2>I'm a FullStack Software Developer</h2>
-</p>
+</div>
 
 <table border="1" width="70%" cellpadding="10" cellspacing="10">
     <thead>
