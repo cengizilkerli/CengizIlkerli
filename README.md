@@ -1,8 +1,8 @@
-<p align="center">
+<p align="center" style="font-size:18px">
     Hello, Welcome to My Github Page
 </p>
 
-<p align="center">
+<p align="center" style="font-size:18px">
     I'm a FullStack Software Developer
 </p>
 
