@@ -1,9 +1,9 @@
-<p align="center" style="font-size:18px">
-    Hello, Welcome to My Github Page
+<p align="center">
+    <h2>Hello, Welcome to My Github Page</h2>
 </p>
 
-<p align="center" style="font-size:18px">
-    I'm a FullStack Software Developer
+<p align="center">
+    <h2>I'm a FullStack Software Developer</h2>
 </p>
 
 <table border="1" width="70%" cellpadding="10" cellspacing="10">
