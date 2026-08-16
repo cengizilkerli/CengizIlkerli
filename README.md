@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Senior Fullstack Software Engineer · .NET Software Architect & Technical Lead</b><br>
-  .NET Backend · React Frontend · AI-Assisted Engineering · 20+ years of experience
+  Software Architect | Principal Software Engineer | Technical Lead | .NET | Distributed Systems | Microservices | AI-Assisted Development
 </p>
 
 <p align="center">
